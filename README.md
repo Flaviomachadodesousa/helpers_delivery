@@ -13,10 +13,10 @@
   - firebase_core: any
   
 #  Objetivo do projeto
-    <p>Criar um app em Flutter, com um menu inferior da tela contendo as principais funções.
+    Criar um app em Flutter, com um menu inferior da tela contendo as principais funções.
 	Inserido SplashScreen. Já no menu Restaurante, foi usado o json para trazer 
 	as informações. Também podemos verificar que no menu localização foi inserido
 	o mapa do google, trazendo as funções do mapa e os marcadores que estão no Firestore.
 	No menu Perfil, foi usado o json para inserir as informações dos usuários,
-	na qual contém, foto do cliente, endereço, cupons de descontos e formas de pagamentos.</p>
+	na qual contém, foto do cliente, endereço, cupons de descontos e formas de pagamentos.
 	
